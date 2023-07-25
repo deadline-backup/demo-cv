@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const DemoProfile = () => {
   return (
     <div className="profile">
@@ -22,6 +21,11 @@ const DemoProfile = () => {
         <li>Problem-Solving: Strong analytical and critical thinking abilities</li>
         <li>Communication: Effective verbal and written communication skills</li>
       </ul>
+      <p>
+        <strong>Languages:</strong>
+        <br />
+        English (IELTS 7.0), Japanese - Elementary
+      </p>
       <h2>Projects:</h2>
       <ol>
         <li>
@@ -47,17 +51,9 @@ const DemoProfile = () => {
           </ul>
         </li>
       </ol>
+      <h2>Hobbies:</h2>
       <p>
-        <strong>Languages:</strong>
-        <br />
-        {/* Add any additional languages here if applicable */}
-      </p>
-      <h2>Personal Projects and Hobbies:</h2>
-      <p>
-        {/* Add any relevant personal coding projects or hobbies here, if applicable */}
-      </p>
-      <p>
-        <strong>References:</strong> Available upon request.
+        Games, Music
       </p>
     </div>
   );
