@@ -32,7 +32,7 @@ const DemoProfile = () => {
             </li>
             <li>Implemented responsive design for optimal viewing across various devices.</li>
             <li>
-              Link: <a href="https://example.com/portfolio" target="_blank" rel="noopener noreferrer">Personal Portfolio</a>
+              Link: <a href="https://deadline-backup.github.io/demo-cv/" target="_blank" rel="noopener noreferrer">Personal Portfolio</a>
             </li>
           </ul>
         </li>
