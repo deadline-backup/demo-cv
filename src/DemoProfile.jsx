@@ -42,7 +42,7 @@ const DemoProfile = () => {
             <li>Created a simple browser-based game using JavaScript, demonstrating proficiency in DOM manipulation and event handling.</li>
             <li>Applied fundamental programming concepts to develop interactive gameplay.</li>
             <li>
-              Link: <a href="https://example.com/game" target="_blank" rel="noopener noreferrer">JavaScript Game Demo</a>
+              Link: <a href="https://deadline-backup.github.io/memory-match/" target="_blank" rel="noopener noreferrer">JavaScript Game Demo</a>
             </li>
           </ul>
         </li>
